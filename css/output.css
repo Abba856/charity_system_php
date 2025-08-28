@@ -1,0 +1,28 @@
+h1
+{
+	background:purple;
+	text-align:center;
+	padding:10px 0 10px 0;
+	color:white;
+}
+.data
+{
+	background:white;
+}
+table,th,td
+{
+	border:1px solid;
+	
+}
+table
+{
+	border-collapse:collapse;
+	margin:auto;
+	
+}
+th,td
+{
+	padding:10px;
+	text-align:left;
+	
+}

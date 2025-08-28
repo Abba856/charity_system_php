@@ -1,0 +1,215 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/*header start here*/
+header{
+    border-bottom: 1px solid black;
+}
+
+#top_most{
+    width: 100%;
+    height: 60px;
+    background-color: purple;
+}
+
+#top_most_son{
+    width: 100%;
+    height: 34%;
+    color:  black;
+    background-color: white;
+}
+
+span{
+    width: 30%;
+    height: 100%;
+    float: right;
+    text-align: end;
+}
+
+#top_most_son_second{
+    width: 80%;
+    height: 60%;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+#top_new{
+    width: 50%;
+    height: 100px;
+    text-align: center;
+    color: white;
+	float:right;
+    padding:0px;
+}
+/*header End here*/
+
+/* container section of student sign up start Here*/
+#container{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    padding: 20px;
+}
+/* container section of student sign up End Here*/
+
+/* this are container son start here*/
+#register{
+    width: 55%;
+    height: 96%;
+    background-image: url(image/a.jpg);
+    margin: 0px auto;
+}
+
+#first{
+    width:60%;
+    height: 40px;
+	margin-top:5px;
+	border: 2px solid green;
+	border-radius:4px;
+	
+	
+}
+#new{
+	 width:30%;
+    height: 20px;
+	margin-top:5px;
+	border: 2px solid green;
+	border-radius:4px;
+}
+#firstN{
+    width: 50%;
+    height: 30px;
+    color: black;
+    padding: 5px;
+}
+
+#lastN{
+    width: 50%;
+    height: 30px;
+    color: black;
+    padding: 5px;
+
+}
+
+#gender{
+    width: 50%;
+    height: 30px;
+    color: black;
+    padding: 5px;
+
+}
+
+#email{
+    width: 100%;
+    height: 80px;
+    color: black;
+    padding: 5px;
+
+}
+
+#contact{
+    width: 100%;
+    height: 80px;
+    color: black;
+    padding: 5px;
+
+}
+
+.sumit{
+    width: 100%;
+    height: 80px;
+    padding: 3px;
+}
+/* this are container son End here*/
+
+/* this is the son for the first id id start here*/
+.acc_nt{
+    width: 165px;
+    height: 100%;
+    float: left;
+    padding: 5px;
+    color: black;
+}
+
+.user{
+    width: 180px;
+    height: 100%;
+    float: left;
+    padding: 5px;
+    color: black;
+}
+/* this is the son for the first id id End here*/
+
+/* this is the son of the firtN lastN Gender email Contact  start here*/
+#firstname{
+    width: 40%;
+    height: 30px;
+    color: black;
+}
+
+#lastname{
+    width: 50%;
+    height: 50px;
+    color: black;
+	margin-top: 10px;
+}
+
+#Gender{
+    width: 50%;
+    height: 40px;
+    color: black;
+}
+
+#Email{
+    width: 50%;
+    height: 40px;
+    color: black;
+}
+
+#Contact{
+    width: 50%;
+    height: 40px;
+    color: black;
+}
+/* this is the son of the firtN lastN Gender email Contact  End here*/
+
+/* this is the name of the submit button the id start here*/
+.submit{
+    width: 15%;
+    height: 28px;
+    padding: 20px;
+	margin-top: 10px;
+    border-radius: 5px;
+    margin-left: ;
+    background-color: green;
+    color: white;
+	cursor: pointer;
+	float:;
+}
+.register{
+    width: 55%;
+    height: 25px;
+    padding: 2px;
+    border-radius: 20px;
+    margin-left: 0;
+    background-color: maroon;
+    color: white;
+	text-align: center;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    background-color: purple;
+}
+
+.foot{
+    width: 30%;
+    height: 50%;
+    margin: 0px auto;
+    margin-top: 25px;
+    text-align: center;
+    color: white;
+}

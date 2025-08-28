@@ -1,0 +1,54 @@
+header{
+width:100%;
+height:100px;
+background: maroon;
+color:white;
+}
+aside{
+	width:35%;
+	height:100%;
+	background:#4A8AF4;
+	float:left;
+}
+
+.boxes{
+	width:25%;
+	height:100%;
+	border-radius:10px solid red;
+	background:lightgray;
+	float:right;
+}
+section{
+	width:40%;
+	height:100%;
+	background:#FF7400;
+	color: ;
+	float:left;
+}
+footer{
+	width:100%;
+    height: 100px;
+    /*float:top-bottom;*/
+    background:maroon;
+	color:white;
+	clear:both;
+}
+#second{
+	width:50%;
+	height:40px;
+	border:10px 15px solid blue;
+	padding:5px;
+	float:center;
+}
+.send{
+	 width: 15%;
+    height: 28px;
+    padding: 20px;
+	margin-top: 10px;
+    border-radius: 5px;
+    margin-left: ;
+    background-color: green;
+    color: white;
+	cursor: pointer;
+	float:;
+}
