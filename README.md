@@ -63,7 +63,7 @@ The system uses a MySQL database with two main tables:
 3. Ensure the web server has proper permissions
 
 ## Usage
-1. Admin login (default): username: `system`, password: (check database)
+1. Admin login: username: `abba856`, password: 1234
 2. Users can register and make donations
 3. Admins can manage users and view all donations
 
